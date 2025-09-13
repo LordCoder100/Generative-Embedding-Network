@@ -1,0 +1,8 @@
+.venv
+.env
+*.pth
+*.pt
+*.csv
+utils/checkpoints/
+output/token_embeddings.csv 
+runs/
