@@ -117,6 +117,6 @@ Created by [Mykhailo Lapshyn](https://www.linkedin.com/in/mykhailo-lapshyn-2a370
 
 📬 Feel free to connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mykhailo-lapshyn-2a3702309) if you’d like to discuss AI, embeddings, or research collaboration.
 
-##Slogan
+## Slogan
 
 **TAKE UNREAL AND MAKE IT REALITY 😏**
